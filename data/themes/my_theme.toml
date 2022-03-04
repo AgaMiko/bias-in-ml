@@ -1,9 +1,6 @@
 # Theme metadata
 name = "my_theme"
 
-# Is theme light or dark?
-light = true
-
 # Primary
 primary = "#6D6875" 
 
