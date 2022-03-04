@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Machine Learning Researcher (my supervisor)
+role: Supervisor
 
 # Organizations/Affiliations
 organizations:

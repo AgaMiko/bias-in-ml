@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Agnieszka Mikołajczyk
+name: Detecting and overcoming bias in data with explainable artificial intelligence
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate & Machine Learning Enthusiast
+role: Grant Preludium no. 2019/35/N/ST6/04052
 
 # Organizations/Affiliations
 organizations:
@@ -22,20 +22,9 @@ bio: Author of scientific papers and publications interested in the issue of mac
 
 interests:
 - Explainable Artificial Intelligence
-- Image Analysis
-- Deep Learning
-
-education:
-  courses:
-  - course: PhD in Machine Learning
-    institution: Gdańsk University of Technology
-    year: 2017 - 2021
-  - course: MEng in Control Theory
-    institution: Gdańsk University of Technology
-    year: 2016 - 2017
-  - course: BSc in Automation Control and Robotics
-    institution: Gdańsk University of Technology
-    year: 2012 - 2016
+- Machine learning
+- Deep learning
+- Bias 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -73,5 +62,23 @@ user_groups:
 - Visitors
 ---
 
-Author of scientific papers and publications interested in the issue of machine learning, explainable AI, image analysis as the way of improving people’s everyday life. A PhD student who cares about the further development and training opportunities within interests. 
+
+
+**Descriptors:**
+
+* ST6_11: Machine learning, statistical data processing and applications using signal processing (e.g. speech, image, video)
+* ST6_7: Artificial intelligence, intelligent systems, multi-agent systems
+
+**Panel:**
+
+* ST6 - Computer science and informatics: informatics and information systems, computer science, scientific computing, intelligent systems
+
+**Funding details:**
+
+* Amount awarded: 138 240 PLN
+* Project start date (Y-m-d): 2020-06-19
+* Project end date (Y-m-d): 2023-06-18
+* Project duration:: 36 months (the same as in the proposal)
+* Project status: Pending project
+
 
