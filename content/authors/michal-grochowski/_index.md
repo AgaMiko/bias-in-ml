@@ -4,7 +4,7 @@ name: Michał Grochowski
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name: "Michał Grochowski"
+- Name: "Michal Grochowski"
 
 # Is this the primary user of the site?
 superuser: false
