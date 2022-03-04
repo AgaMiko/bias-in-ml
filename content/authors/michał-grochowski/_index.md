@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Michał Grochowski"
+name: Michał Grochowski
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -9,13 +9,16 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position (e.g., Professor of Artificial Intelligence)
-role: Supervisor
-
 # Organizations/Affiliations
 organizations:
 - name: Gdańsk University of Technology
-  url: ""
+  url: "https://pg.edu.pl/welcome?p_l_id=52858455&p_v_l_s_g_id=0&"
+  
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position (e.g., Professor of Artificial Intelligence)
+role: Supervisor
 
 # Short bio (displayed in user profile at end of posts)
 bio: Michał Grochowski is my supervisor. He is a machine learning researcher at a Gdańsk University of Technology. His main interests include deep learning and computer vision.

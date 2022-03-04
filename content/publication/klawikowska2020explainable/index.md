@@ -10,7 +10,6 @@ summary = ""
 featured = false
 projects = []
 slides = ""
-url_pdf = "/publication/klawikowska2020explainable/manuscript.pdf"
 url_code = ""
 url_dataset = ""
 url_poster = ""
