@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Michał Grochowski
+title: Michał Grochowski
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -28,23 +28,7 @@ bio: Michał Grochowski is my supervisor. He is a machine learning researcher at
 # - Interest 1
 # - Interest 2
 
-# education:
-#   courses:
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
 
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 # - icon: twitter
   # icon_pack: fab
@@ -71,7 +55,7 @@ social:
 email: ""
 
 user_groups:
- - team
+ - Research group
 ---
 # Info
 

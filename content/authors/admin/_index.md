@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Detecting and overcoming bias in data with explainable artificial intelligence
+title: Detecting and overcoming bias in data with explainable artificial intelligence
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ organizations:
   url: "https://pg.edu.pl/welcome?p_l_id=52858455&p_v_l_s_g_id=0&"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Author of scientific papers and publications interested in the issue of machine learning, explainable AI, image analysis as the way of improving people’s everyday life. A PhD student who cares about the further development and training opportunities within interests. 
+bio: The research towards detecting and mitigating biases in data and models. 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
