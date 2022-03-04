@@ -1,15 +1,30 @@
 # Theme metadata
 name = "my_theme"
 
-# Primary
-primary = "#6D6875" 
+[light]
+	# Primary
+	primary = "#6D6875" 
 
-# Menu
-menu_primary = "#4A4E69" # 500
-menu_text = "#fff"
-menu_text_active = "#E5989B" # A100
-menu_title = "#fff"
+	# Menu
+	menu_primary = "#4A4E69" # 500
+	menu_text = "#fff"
+	menu_text_active = "#E5989B" # A100
+	menu_title = "#fff"
 
-# Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 245, 245)"
+	# Home sections
+	home_section_odd = "rgb(255, 255, 255)"
+	home_section_even = "rgb(247, 245, 245)"
+
+[dark]
+	# Primary
+	primary = "#6D6875" 
+
+	# Menu
+	menu_primary = "#4A4E69" # 500
+	menu_text = "#fff"
+	menu_text_active = "#E5989B" # A100
+	menu_title = "#fff"
+
+	# Home sections
+	home_section_odd = "rgb(255, 255, 255)"
+	home_section_even = "rgb(247, 245, 245)"
