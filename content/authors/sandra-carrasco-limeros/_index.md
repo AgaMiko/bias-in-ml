@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Principle Investigator
+role: ML Researcher
 
 # Organizations/Affiliations
 organizations:
 - name: University of Alcala
-  url: "https://pg.edu.pl/welcome?p_l_id=52858455&p_v_l_s_g_id=0&"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: Author of scientific papers and publications, holding numerous scholarships and awards. She is a PhD student at University of Alcala. Her research focuses on behavioral and interaction understanding and multimodal motion prediction in the context of autonomous driving. Currently, she is working as an expert for the European Commission on interpretable and explainable graph-based models for motion prediction of road users for autonomous driving. She is working as a Deep Learning Researcher in Gothenburg as part of the Eye for AI program, an exclusive talent program created by AI Sweden together with AstraZeneca, Zenseact and Sahlgrenska University Hospital, with the support of Women in AI. 
