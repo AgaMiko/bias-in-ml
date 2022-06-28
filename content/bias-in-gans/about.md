@@ -1,25 +1,3 @@
----
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
-title: The (de)biasing effect of GAN-based augmentation methods
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
-author: admin
----
-
 **Abstract**: New medical datasets are now more open to the public, allowing for better and more extensive research. Although prepared with the utmost care, new datasets might still be a source of spurious correlations that affect the learning process. Moreover, data collections are usually not large enough and are often unbalanced. One approach to alleviate the data imbalance is using data augmentation with Generative Adversarial Networks (GANs) to extend the dataset with high-quality images. GANs are usually trained on the same biased datasets as the target data, resulting in more biased instances. This work explores unconditional and conditional GANs to compare their bias inheritance and how the synthetic data influence the models. We provide extensive manual data annotation of possibly biasing artifacts on the well-known ISIC dataset with skin lesions.
 In addition, we examine classification models trained on both real and synthetic data with counterfactual bias explanations. Our experiments show that GANs inherit biases and sometimes even amplify them, leading to even stronger spurious correlations. Manual data annotation and synthetic images will be publicly available for reproducible scientific research.
 
