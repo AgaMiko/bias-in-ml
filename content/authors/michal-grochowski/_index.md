@@ -56,6 +56,7 @@ email: ""
 
 user_groups:
  - Research group
+ - "GEBI authors"
 ---
 # Info
 
