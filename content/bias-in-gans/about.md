@@ -1,9 +1,6 @@
-**Abstract**: New medical datasets are now more open to the public, allowing for better and more extensive research. Although prepared with the utmost care, new datasets might still be a source of spurious correlations that affect the learning process. Moreover, data collections are usually not large enough and are often unbalanced. One approach to alleviate the data imbalance is using data augmentation with Generative Adversarial Networks (GANs) to extend the dataset with high-quality images. GANs are usually trained on the same biased datasets as the target data, resulting in more biased instances. This work explores unconditional and conditional GANs to compare their bias inheritance and how the synthetic data influence the models. We provide extensive manual data annotation of possibly biasing artifacts on the well-known ISIC dataset with skin lesions.
-In addition, we examine classification models trained on both real and synthetic data with counterfactual bias explanations. Our experiments show that GANs inherit biases and sometimes even amplify them, leading to even stronger spurious correlations. Manual data annotation and synthetic images will be publicly available for reproducible scientific research.
-
-
 # The (de)biasing effect of GAN-based augmentation methods on skin lesion images
-
+ ![miccai conference logo](https://imimic-workshop.com/images/miccai2022-logo.png)
+ 
 The main goal of the experiments was to examine if GAN-generated data makes classification models more prone to biases. We selected a skin lesion ISIC dataset for distinguishing between malignant and benign lesions.
 
 Generated data, annotations and additionall results can be downloaded [here](https://drive.google.com/drive/folders/1ib7b5sopgUEK9TxqEPhgjD7XEdZXBvuV?usp=sharing)
@@ -12,6 +9,10 @@ The repository can be found [here](https://github.com/AgaMiko/debiasing-effect-o
 Our procedure consists of three main steps: data generation, manual artifacts annotation and counterfactual bias insertion. The steps are below:
 
 ![The procedure behind (de)biasing effect of using GAN-based data augmentation](im/idea_new.png)
+
+**Abstract**: New medical datasets are now more open to the public, allowing for better and more extensive research. Although prepared with the utmost care, new datasets might still be a source of spurious correlations that affect the learning process. Moreover, data collections are usually not large enough and are often unbalanced. One approach to alleviate the data imbalance is using data augmentation with Generative Adversarial Networks (GANs) to extend the dataset with high-quality images. GANs are usually trained on the same biased datasets as the target data, resulting in more biased instances. This work explores unconditional and conditional GANs to compare their bias inheritance and how the synthetic data influence the models. We provide extensive manual data annotation of possibly biasing artifacts on the well-known ISIC dataset with skin lesions.
+In addition, we examine classification models trained on both real and synthetic data with counterfactual bias explanations. Our experiments show that GANs inherit biases and sometimes even amplify them, leading to even stronger spurious correlations. Manual data annotation and synthetic images will be publicly available for reproducible scientific research.
+
 
 ## Annotated examples
 
