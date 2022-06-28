@@ -1,3 +1,8 @@
++++
+active = true  # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
++++
+
 # The (de)biasing effect of GAN-based augmentation methods on skin lesion images
  ![miccai conference logo](https://imimic-workshop.com/images/miccai2022-logo.png)
  
